@@ -1,0 +1,10 @@
+﻿START 50
+label# LAC X
+ADD Y /*hello 
+SAC Z
+BRZ label
+INP X
+INP Y
+INP Z
+DSP X
+STP
